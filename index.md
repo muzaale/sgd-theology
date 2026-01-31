@@ -29,9 +29,12 @@ $$
 
 And labels are:
 
+You’re just missing a brace (and the inequality needs to be *inside* the numerator). Fixed:
+
 $$
-\dfrac{\text{payload} \cdot \text{signal speed \leq \, c}{cost}
+\dfrac{\text{payload} \cdot \text{signal speed} \le c}{\text{cost}}
 $$
+
 
 > *Much as it pains us to say it*          
 > *A lot blame for the caliphate dilemma*      
