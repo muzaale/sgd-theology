@@ -18,7 +18,7 @@
 Optimize: 
 
 $$
-\dfrac{m\cdot s}(e)
+\dfrac{m\cdot s}{e}
 $$ 
 
 Whose units are:
@@ -30,7 +30,7 @@ $$
 And labels are:
 
 $$
-\dfrac{\text{payload} \cdot \text{signal speed \lt \, c}}{cost}
+\dfrac{\text{payload} \cdot \text{signal speed \leq \, c}{cost}
 $$
 
 > *Much as it pains us to say it*          
