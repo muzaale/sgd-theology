@@ -477,8 +477,15 @@ Here is the $\Omega$ (Omega) section to close the loop. It integrates your "Land
 
 ### **The Ouroboros (The Ecosystem Analog)**
 
-If we return to the landscape:
-`Landscape -> User Behavior -> SGD -> UI/UX -> Ecosystem`
+If we return to the [landscape](https://ukb-dt.github.io/canon-00/):
+
+$$
+\text{Landscape} \to
+\text{User Behavior} \to
+\text{SGD} \to
+\text{UI/UX} \to
+\text{Ecosystem}
+$$
 
 The tragedy is that the **SGD** step (the optimizer) does not just update the model; it updates the **User Behavior** ($UB$).
 
