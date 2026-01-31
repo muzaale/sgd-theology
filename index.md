@@ -35,7 +35,7 @@ $$
 
 > *Much as it pains us to say it*          
 > *A lot blame for the caliphate dilemma*      
-> *Rests either our great schools of business*     
+> *Rests on our great schools of business*     
 > *Including our own. We’ve advanced*     
 > *Success metrics that are at*     
 > *Best superficial and at*     
